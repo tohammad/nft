@@ -11,15 +11,15 @@ npm install --save-dev hardhat
 npx hardhat
 
 ## Dependencies
-npm i @openzeppelin/contracts --save
-npm i dotenv --save (connects Metamask with Alchemy)
-npm i @alch/alchemy-web3 --save
+- [ ] npm i @openzeppelin/contracts --save
+- [ ] npm i dotenv --save (connects Metamask with Alchemy)
+- [ ] npm i @alch/alchemy-web3 --save
 
-npm i @nomiclabs/hardhat-ethers --save-dev
-npm i @nomiclabs/hardhat-waffle --save-dev
-npm i ethers --save-dev
-npm i ethereum-waffle --save-dev
-npm i chai --save-dev
+- [ ] npm i @nomiclabs/hardhat-ethers --save-dev
+- [ ] npm i @nomiclabs/hardhat-waffle --save-dev
+- [ ] npm i ethers --save-dev
+- [ ] npm i ethereum-waffle --save-dev
+- [ ] npm i chai --save-dev
  
 ## Compile Smart Contracts
 npx hardhat compile
