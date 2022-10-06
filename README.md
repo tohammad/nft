@@ -1,4 +1,4 @@
-# nft
+# Non Fungible Token
 NFT Creation
 
 ## Environment
