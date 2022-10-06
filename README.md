@@ -28,8 +28,8 @@ npx hardhat compile
 npx hardhat test
 
 ## Contract Address
-Token Address 0xb2aD69A9df51ECAfc603aDF7838320304Ebb005c
-https://goerli.etherscan.io/address/0xb2aD69A9df51ECAfc603aDF7838320304Ebb005c
-
-Mint NFT hash: 0x249d435d8bf49f271614bc2f18ea88b3ff735c09c47c296722a2e28c15e1d47d
-NFT Contact Address: 0xb2ad69a9df51ecafc603adf7838320304ebb005c
+- Token Address 0xb2aD69A9df51ECAfc603aDF7838320304Ebb005c
+- https://goerli.etherscan.io/address/0xb2aD69A9df51ECAfc603aDF7838320304Ebb005c
+- Mint NFT hash: 0x249d435d8bf49f271614bc2f18ea88b3ff735c09c47c296722a2e28c15e1d47d
+- NFT Contact Address: 0xb2ad69a9df51ecafc603adf7838320304ebb005c
+- https://gateway.pinata.cloud/ipfs/QmW1SoguPnncYDXxe7wN6zekiYWy6V7jfiNfFzqwUQZfUJ
